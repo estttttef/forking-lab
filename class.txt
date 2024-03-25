@@ -1,3 +1,0 @@
-color
-another color
-another one
